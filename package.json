@@ -1,0 +1,11 @@
+{
+	"name": "com.hitoshikanno.debugx",
+	"version": "1.0.0",
+	"displayName": "Debug X",
+	"description": "A simple Debug wrap to easily show colored logs",
+	"unity": "2020.3",
+	"author":{
+		"name": "Hitoshi Kanno",
+		"email": "hkannok@gmail.com"
+	}
+}
